@@ -97,7 +97,7 @@ Para cada principio se crearon pruebas unitarias verificando:
 
 ## Entorno en CodeSpace y pruebas
 
-![Entorno y pruebas](img/CodeSpace.png)
+![Entorno y pruebas](solid-principles-java-lab/img/CodeSpace.png)
 
 ## Conclusión
 La aplicación de los principios SOLID en este laboratorio o en un entorno organizacion permite:
